@@ -6,3 +6,5 @@ It will detect your finger tip to draw.
    2. Drawing Mode: Only Index Finger Up
    
    <img src="https://i.imgur.com/FCSMjW3.png"/>
+
+ Licenced under the [MIT Licence](LICENCE).
